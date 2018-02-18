@@ -1,6 +1,7 @@
 # React-Grid-Layout
 
 [![travis build](https://travis-ci.org/STRML/react-grid-layout.svg?branch=master)](https://travis-ci.org/STRML/react-grid-layout)
+[![CDNJS](https://img.shields.io/cdnjs/v/react-grid-layout.svg)](https://cdnjs.com/libraries/react-grid-layout)
 [![npm package](https://img.shields.io/npm/v/react-grid-layout.svg?style=flat-square)](https://www.npmjs.org/package/react-grid-layout)
 [![npm downloads](https://img.shields.io/npm/dt/react-grid-layout.svg?maxAge=2592000)]()
 
@@ -46,10 +47,11 @@ RGL is React-only and does not require jQuery.
 1. [Dynamic Minimum and Maximum Width/Height](https://strml.github.io/react-grid-layout/examples/10-dynamic-min-max-wh.html)
 1. [No Vertical Compacting (Free Movement)](https://strml.github.io/react-grid-layout/examples/11-no-vertical-compact.html)
 
-#### Projects based on React-Grid-Layout
+#### Projects Using React-Grid-Layout
 
 - [BitMEX](https://www.bitmex.com/)
 - [AWS CloudFront Dashboards](https://aws.amazon.com/blogs/aws/cloudwatch-dashboards-create-use-customized-metrics-views/)
+- [Grafana](https://grafana.com/)
 - [Metabase](http://www.metabase.com/)
 - [HubSpot](http://www.hubspot.com)
 - [ComNetViz](http://www.grotto-networking.com/ComNetViz/ComNetViz.html)
